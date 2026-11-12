@@ -1,0 +1,64 @@
+## Interface: 16001
+## Title: Necrosis |cff00ff96无限版|r
+## Notes: Warlock UI & Shard Management（《魔兽世界：无限》移植版）
+## Notes-frFR: Gestion graphique des shards.
+## Notes-zhCN: 术士界面与碎片管理（《魔兽世界：无限》移植版）
+## Version: 3.1.9999-wuxian.1
+## Author: Lomig & Arpharazon（原作） | 无限服移植：OpenClaw
+## Website: https://github.com/Lomig/necrosisldc
+## DefaultState: Enabled
+## X-Original-Author: Lomig
+## X-Category: Warlock
+## LoadOnDemand: 0
+## SavedVariablesPerCharacter: NecrosisConfig
+
+Necrosis.xml
+
+Localization.lua
+
+Locales\Functions-fr.lua
+Locales\Functions-en.lua
+Locales\Functions-de.lua
+Locales\Functions-es.lua
+Locales\Functions-tw.lua
+Locales\Functions-cn.lua
+Locales\Functions-ru.lua
+
+Locales\Dialog-fr.lua
+Locales\Dialog-en.lua
+Locales\Dialog-de.lua
+Locales\Dialog-es.lua
+Locales\Dialog-tw.lua
+Locales\Dialog-cn.lua
+Locales\Dialog-ru.lua
+
+Speech\Speech-fr.lua
+Speech\Speech-en.lua
+Speech\Speech-de.lua
+Speech\Speech-es.lua
+Speech\Speech-tw.lua
+Speech\Speech-cn.lua
+Speech\Speech-ru.lua
+
+Initialize.lua
+Message.lua
+Spells.lua
+
+Timers\Functions.lua
+Timers\GraphicalTimers.lua
+Timers\OtherTimers.lua
+
+Bindings.lua
+
+XML\Attributes.lua
+XML\XML.lua
+
+XML\Panel.lua
+XML\Options-Messages.lua
+XML\Options-Sphere.lua
+XML\Options-Buttons.lua
+XML\Options-Menus.lua
+XML\Options-Timers.lua
+XML\Options-Misc.lua
+
+Necrosis.lua
